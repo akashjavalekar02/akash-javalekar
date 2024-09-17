@@ -1,0 +1,46 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TransactionItem&Sequence_12",
+        "ExtractionResult&Sequence_10",
+        "ValidatedExtractionResult&Sequence_10",
+        "Dataset&Sequence_10",
+        "OutputFolderPath&Sequence_1",
+        "ApiKey&Sequence_1",
+        "IntelligentKeywordJsonFile&Sequence_1",
+        "QueuItems&Sequence_1",
+        "DocumentFilePath&Sequence_1",
+        "ValidatedClassificationResult&Sequence_1",
+        "DU_ClassificationResult&Sequence_1",
+        "DOM&Sequence_1",
+        "DocumentText&Sequence_1",
+        "DU_Taxonomy&Sequence_1",
+        "TransactionItem&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Dispatcher.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "InputFolderPath&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
