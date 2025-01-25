@@ -27493,9 +27493,9 @@
     "restore": {
       "projectUniqueName": "DU_Bank_Challenge",
       "projectName": "DU_Bank_Challenge",
-      "projectPath": "C:\\Users\\Akash Javalekar\\Documents\\UiPath\\DU_Bank_Challenge\\.local",
+      "projectPath": "C:\\Users\\Akash Javalekar\\Documents\\UiPath\\akash-javalekar\\.local",
       "packagesPath": "C:\\Users\\Akash Javalekar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Akash Javalekar\\Documents\\UiPath\\DU_Bank_Challenge\\.local"
+      "outputPath": "C:\\Users\\Akash Javalekar\\Documents\\UiPath\\akash-javalekar\\.local"
     },
     "frameworks": {
       "net8.0-windows7.0": {
